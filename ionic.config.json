@@ -1,0 +1,7 @@
+{
+  "name": "AplicacaoDeVendas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
